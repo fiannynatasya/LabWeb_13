@@ -26,3 +26,4 @@
 ![Screenshot (141)](https://user-images.githubusercontent.com/94009296/213456657-ba929162-4e1b-47fe-ae51-a33588bd04a4.png)
 
 ## selanjutkan style.css ##
+![Screenshot (142)](https://user-images.githubusercontent.com/94009296/213457366-56d636cc-8470-4d51-be20-201fbe37baa6.png)
