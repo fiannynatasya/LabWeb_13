@@ -15,3 +15,8 @@
 
 ## masukan indeks php ##
 ![image](https://user-images.githubusercontent.com/94009296/213454525-62402420-e650-4175-ac22-1ca3052d94d5.png)
+
+## langkah selanjutnya merubah php ##
+![Screenshot (139)](https://user-images.githubusercontent.com/94009296/213455154-bbb21a07-fc29-47f8-b83a-595f07c619b8.png)
+
+## selnajutnya tambah php ##
