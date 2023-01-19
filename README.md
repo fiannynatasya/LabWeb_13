@@ -13,3 +13,5 @@
 ## langkah selanjutnya membuat coding di vs code yaitu koneksi php ##
 ![Screenshot (137)](https://user-images.githubusercontent.com/94009296/213453765-6a5bf6ce-e798-453d-aec7-e6cece683312.png)
 
+## masukan indeks php ##
+![image](https://user-images.githubusercontent.com/94009296/213454525-62402420-e650-4175-ac22-1ca3052d94d5.png)
