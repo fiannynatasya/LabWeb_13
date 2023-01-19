@@ -6,6 +6,6 @@
 ## LANGKAH PERTAMA ##
 ## MENYALAKAN XAMMP ##
 
-![Screenshot (132)](https://user-images.githubusercontent.com/94009296/213450578-478d7799-a614-4990-ae46-d7aecfc82730.png)
+![Screenshot (135)](https://user-images.githubusercontent.com/94009296/213452147-1eff2bb7-8bbd-436c-9385-06fd5a8aa1f3.png)
 
 ## LANGKAH KE DUA ##
